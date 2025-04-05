@@ -12,6 +12,11 @@ import java.util.stream.Collectors;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+/* 
+ * 
+ * Performed 1. Grouping (based on countries) +  2. Transforming String date to Localdate
+*/
+
 public class Main {
     public static void main(String[] args) throws Exception {
 
